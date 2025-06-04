@@ -1,0 +1,13 @@
+body{
+	text-align:center;
+}
+.album ul{
+	list-style-type:none;
+}
+.album  ul li{
+	font-family:Tahoma;
+}
+img{
+	border-radius:5px;
+
+}
